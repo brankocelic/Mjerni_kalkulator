@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="converts_from">Converts from!</string>
+    <string name="_1_0">1.0</string>
+    <string name="_1_0_teaspoon">1.0 teaspoon</string>
+    <string name="_0208_cup">.0208 tablespoon</string>
+    <string name="_3333_lbs">.3333 cup</string>
+    <string name="_0_0052_quart">.0052 quart</string>
+    <string name="_0_0057_kg">0.0057 kilogram</string>
+    <string name="_1666_oz">.1666 oz</string>
+    <string name="_0013_galon">.0013 galon</string>
+    <string name="_0_125_pound">.125 pound</string>
+    <string name="_4_9289_ml">4.9289 milliliters</string>
+    <string name="_0049_liter">.0049 liter</string>
+    <string name="_5687_5000_mg">5687.5000 milligram</string>
+    <string name="_0104_pint">.0104 pint</string>
+    <string name="mjerni_kalkulator">Mjerni kalkulator</string>
+    <string name="_0208_cup1">.0208 cup</string>
+    <string name="_3333_tbs1">.3333 tbs</string>
+    <string name="_1666_oz1">.1666 oz</string>
+    <string name="_0057_kilogram1">.0057 kilogram</string>
+    <string name="_0052_quart1">.0052 quart</string>
+    <string name="_0013_gallon1">.0013 gallon</string>
+    <string name="_0125_pound1">.0125 pound</string>
+    <string name="_4_9289_ml1">4.9289 ml</string>
+    <string name="_0049_liter1">.0049 liter</string>
+    <string name="_5687_5000_milligram1">5687.5000 milligram</string>
+    <string name="_0104_pint1">.0104 pint</string>
+</resources>
